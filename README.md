@@ -4,3 +4,5 @@ in "model_handsigns" wird das CNN trainiert.
 
 das netz performt guut an den Triningsdaten wie auch an den test dten des selben videos. jedoch scheitert es kläglich an den "neuen" testdatem.
 Dies sieht man in den diagrammen und der confusions matrix
+
+viel bessere ergebnisse (bis 80% mit "live" test set) mit kleinen Kernlesize: 3x3 und vielen filter: 100
